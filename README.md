@@ -1,5 +1,7 @@
 # Job Search Platform
 
+[![Java CI](https://github.com/ChoudharyUday212000/JobSearchPlatform/actions/workflows/ci.yml/badge.svg)](https://github.com/ChoudharyUday212000/JobSearchPlatform/actions/workflows/ci.yml)
+
 A Spring Boot REST API for a job-search workflow. The codebase is organized into controller, service, model and repository packages, with MySQL persistence through Spring Data JPA.
 
 ## Features in the current codebase
